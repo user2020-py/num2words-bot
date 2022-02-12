@@ -1,2 +1,2 @@
-pyTelegramBotAPI
-num2words
+pyTelegramBotAPI==4.4.0
+num2words==0.5.10
