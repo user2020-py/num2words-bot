@@ -1,0 +1,2 @@
+pyTelegramBotAPI
+num2words
